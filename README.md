@@ -31,7 +31,7 @@ This project is focused on analyzing titration data using Python. The goal is to
 ## Usage
 1. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook titration.ipynb
+     titration.ipynb
    ```
 2. Follow the instructions in the notebook to load your data and run the analysis.
 
